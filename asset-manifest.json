@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/allideabridge-website/static/css/main.964fdded.css",
-    "main.js": "/allideabridge-website/static/js/main.0e945ecc.js",
-    "index.html": "/allideabridge-website/index.html",
-    "main.964fdded.css.map": "/allideabridge-website/static/css/main.964fdded.css.map",
-    "main.0e945ecc.js.map": "/allideabridge-website/static/js/main.0e945ecc.js.map"
+    "main.css": "/static/css/main.964fdded.css",
+    "main.js": "/static/js/main.0e945ecc.js",
+    "index.html": "/index.html",
+    "main.964fdded.css.map": "/static/css/main.964fdded.css.map",
+    "main.0e945ecc.js.map": "/static/js/main.0e945ecc.js.map"
   },
   "entrypoints": [
     "static/css/main.964fdded.css",
